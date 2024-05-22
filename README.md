@@ -5,7 +5,7 @@ Click the button below to deploy the connector to Heroku:
 [![Deploy](https://www.herokucdn.com/deploy/button.svg?classes=noborder)](https://heroku.com/deploy?template=https://github.com/carmendelsolar/vonage-voice-teneo)
 
 In the 'Config Vars' section, add the following (required):
-* **TENEO_ENGINE_URL:** Your Teneo Interaction Engine endpoint, which you can obtain from your publication environment in Teneo Studio. See: https://developers.artificial-solutions.com/engine/getting-started/publish-your-solution
+* **TENEO_ENGINE_URL:** Your Teneo Interaction Engine endpoint, which you can obtain from your publication environment in Teneo Studio. See: https://developers.teneo.ai/article/deploy/getting-started/publish-your-solution
 * **WEBHOOK_FOR_VONAGE:** Application endpoint for deployed vonage-voice-teneo connector (e.g. https://vonage-voice-teneo.herokuapp.com). Please note DO NOT add a '/' to the end of this URL!
 
 These are not required but can also be set:
