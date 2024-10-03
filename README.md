@@ -1,5 +1,9 @@
 ## Running the connector on Heroku
 
+> [!IMPORTANT]
+> This project has been retired and archived  
+> If there is a need of continued use / development of this project for your own needs please feel free to fork the project - which will remain here in archived form.
+
 Click the button below to deploy the connector to Heroku:
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg?classes=noborder)](https://heroku.com/deploy?template=https://github.com/carmendelsolar/vonage-voice-teneo)
